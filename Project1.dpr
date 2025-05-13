@@ -2,7 +2,7 @@ program Project1;
 
 uses
   Vcl.Forms,
-  mainForm in '..\..\prjCalc\mainForm.pas' {Form1};
+  mainForm in '..\..\prjCalculator\prjCalc\mainForm.pas' {Form1};
 
 {$R *.res}
 
